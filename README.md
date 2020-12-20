@@ -7,5 +7,8 @@
 
 ## 프로젝트 목적
 
+Mp4 파일을 입력 받아 수어 영상을 자동으로 제작합니다.
+
 ## 주요 알고리즘
 
+MobileNet + Online learning
